@@ -4,7 +4,7 @@
 - Axell Báez - 1100321
 - Eliardo Benoit - 1086299
 - Janna Beras – 1100583
-- 
+  
 # Objetivo
 Aplicar de manera práctica los conceptos aprendidos sobre Git y GitHub.
 
